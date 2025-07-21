@@ -18,7 +18,7 @@ const HeroSection: React.FC = () => {
       </div>
 
       {/* Main Content Container */}
-      <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <div className="relative py-16 lg:py-0 z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         {/* Welcome Badge */}
         <div className="inline-flex items-center gap-3 px-6 py-3 rounded-full bg-white/90 backdrop-blur-md shadow-lg mb-8 border border-white/20">
           <Smile className="w-5 h-5 text-orange-500" />
