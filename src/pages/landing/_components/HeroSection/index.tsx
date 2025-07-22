@@ -23,7 +23,7 @@ const HeroSection: React.FC = () => {
         <div className="inline-flex items-center gap-3 px-6 py-3 rounded-full bg-white/90 backdrop-blur-md shadow-lg mb-8 border border-white/20">
           <Smile className="w-5 h-5 text-orange-500" />
           <span className="text-sm font-semibold text-gray-700 tracking-wide">
-            Bienvenue dans notre famille
+            Bienvenue dans notre famille.
           </span>
         </div>
 
